@@ -1,0 +1,15 @@
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\bin\Debug\net6.0\MyMusic.Services.deps.json
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\bin\Debug\net6.0\MyMusic.Services.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\bin\Debug\net6.0\MyMusic.Services.pdb
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\bin\Debug\net6.0\MyMusic.Core.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\bin\Debug\net6.0\MyMusic.Core.pdb
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.csproj.AssemblyReference.cache
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.AssemblyInfo.cs
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.csproj.CopyComplete
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\refint\MyMusic.Services.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.pdb
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Services\obj\Debug\net6.0\ref\MyMusic.Services.dll

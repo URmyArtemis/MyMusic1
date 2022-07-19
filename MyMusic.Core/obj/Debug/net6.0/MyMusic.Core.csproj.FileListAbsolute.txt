@@ -1,0 +1,12 @@
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\bin\Debug\net6.0\MyMusic.Core.deps.json
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\bin\Debug\net6.0\MyMusic.Core.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\bin\Debug\net6.0\MyMusic.Core.pdb
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.csproj.AssemblyReference.cache
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.AssemblyInfoInputs.cache
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.AssemblyInfo.cs
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.csproj.CoreCompileInputs.cache
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\refint\MyMusic.Core.dll
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\MyMusic.Core.pdb
+C:\Users\zhenh\OneDrive\Desktop\MyMusic\MyMusic.Core\obj\Debug\net6.0\ref\MyMusic.Core.dll
